@@ -1,0 +1,19 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "name": "Suzan",
+      "message": "hey handsome!"
+    },
+    {
+      "id": 2,
+      "name": "Lilly",
+      "message": "plans for tonight ;)"
+    },
+    {
+      "id": 3,
+      "name": "Justine",
+      "message": "hey hey hey cutie :)"
+    }
+  ]
+}
