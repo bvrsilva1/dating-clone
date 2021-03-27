@@ -1,0 +1,9 @@
+.conversationPreview {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.snippet {
+  margin-left: 10px;
+}
